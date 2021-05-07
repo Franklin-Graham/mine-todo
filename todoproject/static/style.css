@@ -1,0 +1,20 @@
+.fun{
+background-color:rgb(184, 135, 160);
+background-color:hsl(330%, 26%, 63%);
+width:100%;
+height:200px;
+margin-bottom:50px;
+}
+.fun1{
+color: #DDDDDD;
+}
+.fun-text{
+top:30%;
+left:45%;
+position:absolute;
+transform:transform;
+}
+.fun2{
+color:red;
+font-style:oblique;
+}
